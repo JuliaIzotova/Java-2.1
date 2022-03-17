@@ -10,6 +10,7 @@ public class Main<milesEarned> {
         int milesEarned = (int) ticketPrice / milePrice;
 
         int milesEarned1 = milesEarned;
+        System.out.println("Накопленные мили:");
         System.out.println(milesEarned);
     }
 }
