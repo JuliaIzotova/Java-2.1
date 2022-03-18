@@ -1,4 +1,4 @@
-public class Main<milesEarned> {
+public class Main {
     public static void main(String[] args) {
 
         // Входные данные
