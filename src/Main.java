@@ -7,7 +7,7 @@ public class Main {
 
         // Решениe
 
-        int milesEarned  = (int) ticketPrice / milePrice;
+        int milesEarned = (int) ticketPrice / milePrice;
 
         System.out.println("Накопленные мили:");
         System.out.println(milesEarned);
